@@ -1,0 +1,13 @@
+{
+    "maintainer": "Sanyog_Deshmukh@ibm.com",
+    "package_name" : "sysdig",
+    "github_url":"https://github.com/draios/sysdig",
+    "version": "v0.33.1",
+    "default_branch" : "dev",
+    "package_dir": "draios/sysdig",
+    "build_script": "build_sysdig.sh",
+    "docker_build": true,
+    "docker_cmd": "docker build -t ${package_name}:$PACKAGE_VERSION ${dir}",
+    "validate_build_script": true,
+    "use_non_root_user": false,
+}
