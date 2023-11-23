@@ -2,7 +2,7 @@
     "maintainer": "Prashant_Jagtap@ibm.com",
     "package_name" : "apache mesos",
     "github_url":"https://github.com/apache/mesos",
-    "version": "v1.11.0",
+    "version": "1.11.0",
     "default_branch" : "master",
     "package_dir": "apache/mesos",
     "build_script": "build_mesos.sh",
