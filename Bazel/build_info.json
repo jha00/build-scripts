@@ -1,0 +1,13 @@
+{
+    "maintainer": "Sonal_Deshmukh@ibm.com",
+    "package_name" : "bazel",
+    "github_url":"https://github.com/bazelbuild/bazel",
+    "version": "6.4.0",
+    "default_branch" : "master",
+    "package_dir": "bazelbuild/bazel",
+    "build_script": "build_bazel.sh",
+    "docker_build": true,
+    "docker_cmd": "docker build -t ${package_name}:$PACKAGE_VERSION ${dir}",
+    "validate_build_script": true,
+    "use_non_root_user": false
+}
