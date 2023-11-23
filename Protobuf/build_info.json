@@ -1,0 +1,12 @@
+{
+    "maintainer": "Aloc_jose@ibm.com",
+    "package_name" : "protobuf",
+    "github_url":"https://github.com/protocolbuffers/protobuf",
+    "version": "v3.14.0",
+    "default_branch" : "main",
+    "package_dir": "protocolbuffers/protobuf",
+    "build_script": "build_protobuf.sh",
+    "docker_build": false,
+    "validate_build_script": true,
+    "use_non_root_user": false
+}
