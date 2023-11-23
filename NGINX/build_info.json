@@ -2,7 +2,7 @@
     "maintainer": "Sankalp@ibm.com",
     "package_name" : "nginx",
     "github_url":"https://github.com/nginx/nginx",
-    "version": "1.24.0",
+    "version": "release-1.24.0",
     "default_branch" : "master",
     "package_dir": "nginx/nginx",
     "build_script": "build_nginx.sh",
