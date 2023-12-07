@@ -1,3 +1,24 @@
+# -----------------------------------------------------------------------------
+#
+# Package	: Alfresco
+# Version	: v7.4.0
+# Source repo	: https://github.com/Alfresco/alfresco-community-repo
+# Tested on	: UBI 8.6
+# Language      : Python
+# Travis-Check  : False
+# Script License: Apache License, Version 2 or later
+# Maintainer	: Atharv Phadnis <Prabhav.Thali@ibm.com>
+#
+# Run as:	  docker run -it --network host -v /var/run/docker.sock:/var/run/docker.sock registry.access.redhat.com/ubi8
+#
+# Disclaimer: This script has been tested in root mode on given
+# ==========  platform using the mentioned version of the package.
+#             It may not work as expected with newer versions of the
+#             package and/or distribution. In such case, please
+#             contact "Maintainer" of this script.
+#
+# ----------------------------------------------------------------------------
+
 #!/bin/bash
 # © Copyright IBM Corporation 2023.
 # LICENSE: Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
