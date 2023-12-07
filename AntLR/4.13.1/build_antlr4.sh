@@ -1,6 +1,6 @@
 # -----------------------------------------------------------------------------
 #
-# Package	: Alfresco
+# Package	: antlr4
 # Version	: v4.13.1
 # Source repo	: https://github.com/antlr/antlr4
 # Tested on	: UBI 8.6
