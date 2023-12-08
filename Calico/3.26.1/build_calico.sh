@@ -7,7 +7,7 @@
 # Language      : Go
 # Travis-Check  : False
 # Script License: Apache License, Version 2 or later
-# Maintainer	: Yasir Ashfaq <Yasir_Ashfaq @ibm.com>
+# Maintainer	: Yasir Ashfaq <Yasir_Ashfaq@ibm.com>
 #
 # Run as:	  docker run -it --network host -v /var/run/docker.sock:/var/run/docker.sock registry.access.redhat.com/ubi8
 #
