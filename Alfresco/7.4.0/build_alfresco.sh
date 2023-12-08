@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 #
 # Package	: Alfresco
-# Version	: v7.4.0
+# Version	: v6.2, v7.0.0, v7.2.0, v7.4.0 
 # Source repo	: https://github.com/Alfresco/alfresco-community-repo
 # Tested on	: Ub20.04
 # Language      : Python
