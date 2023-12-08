@@ -3,11 +3,11 @@
 # Package	: Alfresco
 # Version	: v7.4.0
 # Source repo	: https://github.com/Alfresco/alfresco-community-repo
-# Tested on	: Ub20.04, Ub22.04, RHEL8.6
+# Tested on	: Ub20.04
 # Language      : Python
 # Travis-Check  : False
 # Script License: Apache License, Version 2 or later
-# Maintainer	: Atharv Phadnis <Prabhav.Thali@ibm.com>
+# Maintainer	: Prabhav Thali <Prabhav.Thali@ibm.com>
 #
 # Run as:	  docker run -it --network host -v /var/run/docker.sock:/var/run/docker.sock registry.access.redhat.com/ubi8
 #
