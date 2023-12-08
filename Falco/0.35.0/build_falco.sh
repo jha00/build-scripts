@@ -7,7 +7,7 @@
 # Language      : C++
 # Travis-Check  : False
 # Script License: Apache License, Version 2 or later
-# Maintainer	: Prashant Jagtap <Prashant_Jagtap@ibm.com>
+# Maintainer	: Prashant Jagtap <Prashant.Jagtap@ibm.com>
 #
 # Run as:	  docker run -it --network host -v /var/run/docker.sock:/var/run/docker.sock registry.access.redhat.com/ubi8
 #
