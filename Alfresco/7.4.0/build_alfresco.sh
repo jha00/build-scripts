@@ -3,7 +3,7 @@
 # Package	: Alfresco
 # Version	: v7.4.0
 # Source repo	: https://github.com/Alfresco/alfresco-community-repo
-# Tested on	: Ub20.04,Ub22.04,RHEL8.6
+# Tested on	: Ub20.04, Ub22.04, RHEL8.6
 # Language      : Python
 # Travis-Check  : False
 # Script License: Apache License, Version 2 or later
