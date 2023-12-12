@@ -1,3 +1,30 @@
+# -----------------------------------------------------------------------------
+#
+# Package	: Kibana
+# Version	: v8.8.1
+# Source repo	: https://github.com/elastic/kibana
+# Tested on	: rh7.8, rh7.9, rh8.6, rh8.8, rh9.0, rh9.2, sl12.5, sl15.4, ub20.04, ub22.04
+# Language      : Typescript
+# Travis-Check  : False
+# Script License: Apache License, Version 2 or later
+# Maintainer	: @Pandurang Khandeparker <@Pandurang.Khandeparker@ibm.com>
+#
+# Run as:	  docker run -it --network host -v /var/run/docker.sock:/var/run/docker.sock registry.access.redhat.com/ubi8
+#
+# Disclaimer: This script has been tested in root mode on given
+# ==========  platform using the mentioned version of the package.
+#             It may not work as expected with newer versions of the
+#             package and/or distribution. In such case, please
+#             contact "Maintainer" of this script.
+#
+# ----------------------------------------------------------------------------
+#!/bin/bash
+# © Copyright IBM Corporation 2023.
+# LICENSE: Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+#
+# Instructions:
+# Download build script: wget https://raw.githubusercontent.com/linux-on-ibm-z/scripts/master/Grafana/10.1.4/build_grafana.sh
+# Execute build script: bash build_grafana.sh    (provide -h for help)
 #!/bin/bash
 # ©  Copyright IBM Corporation 2023.
 # LICENSE: Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
