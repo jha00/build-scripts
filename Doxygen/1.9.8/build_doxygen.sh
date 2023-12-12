@@ -3,7 +3,7 @@
 # Package	: Doxygen
 # Version	: v1.9.8
 # Source repo	: https://github.com/doxygen/doxygen
-# Tested on	: UBI 8.6
+# Tested on	: rh7.8, rh7.9, rh8.6, rh8.8, rh9.0, rh9.2, sl12.5, sl15.4, sl15.5, ub20.04, ub22.04, ub23.04
 # Language      : C++
 # Travis-Check  : False
 # Script License: Apache License, Version 2 or later
