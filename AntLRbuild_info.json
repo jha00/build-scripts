@@ -1,0 +1,12 @@
+{
+    "maintainer": "Sudip_roy@ibm.com",
+    "package_name" : "antlr",
+    "github_url":"https://github.com/antlr/antlr4",
+    "version": "4.13.1",
+    "default_branch" : "master",
+    "package_dir": "antlr/antlr4",
+    "build_script": "build_antlr.sh",
+    "docker_build": false,
+    "validate_build_script": true,
+    "use_non_root_user": false
+}
