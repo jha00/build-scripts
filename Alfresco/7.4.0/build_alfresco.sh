@@ -9,8 +9,6 @@
 # Script License: Apache License, Version 2 or later
 # Maintainer	: Prabhav Thali <Prabhav.Thali@ibm.com>
 #
-# Run as:	  docker run -it --network host -v /var/run/docker.sock:/var/run/docker.sock registry.access.redhat.com/ubi8
-#
 # Disclaimer: This script has been tested in root mode on given
 # ==========  platform using the mentioned version of the package.
 #             It may not work as expected with newer versions of the
