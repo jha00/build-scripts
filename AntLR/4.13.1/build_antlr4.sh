@@ -3,7 +3,7 @@
 # Package	: antlr4
 # Version	: v4.13.1
 # Source repo	: https://github.com/antlr/antlr4
-# Tested on	: Ubuntu 20.04
+# Tested on	: Ubuntu 20.04, Ubuntu22.04
 # Language      : Java
 # Travis-Check  : False
 # Script License: Apache License, Version 2 or later
